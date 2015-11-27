@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MiscUtil.Linq
+namespace BtmI2p.MiscUtil.Linq
 {
     /// <summary>
     /// Interface to be implemented by sequences of data which have a "push"

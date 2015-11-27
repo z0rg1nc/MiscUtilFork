@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Reflection;
 using System.Xml.Linq;
 
-namespace MiscUtil.Xml.Linq.Extensions
+namespace BtmI2p.MiscUtil.Xml.Linq.Extensions
 {
     /// <summary>
     /// Extensions to System.Object for LINQ to XML purposes.

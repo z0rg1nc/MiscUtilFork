@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using MiscUtil.Threading;
+using BtmI2p.MiscUtil.Threading;
 
-namespace MiscUtil
+namespace BtmI2p.MiscUtil
 {
     /// <summary>
     /// An implementation of IBufferManager which keeps a cache of

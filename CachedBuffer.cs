@@ -1,6 +1,6 @@
 using System;
 
-namespace MiscUtil
+namespace BtmI2p.MiscUtil
 {
     /// <summary>
     /// Type of buffer returned by CachingBufferManager.

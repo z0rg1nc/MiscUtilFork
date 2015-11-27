@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MiscUtil.Extensions
+namespace BtmI2p.MiscUtil.Extensions
 {
     /// <summary>
     /// Extension methods on all reference types. 

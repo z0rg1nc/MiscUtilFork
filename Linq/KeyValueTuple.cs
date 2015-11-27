@@ -1,4 +1,4 @@
-﻿namespace MiscUtil.Linq
+﻿namespace BtmI2p.MiscUtil.Linq
 {
     /// <summary>
     /// Generic tuple for a key and a single value

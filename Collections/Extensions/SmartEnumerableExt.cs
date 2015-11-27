@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 
-namespace MiscUtil.Collections.Extensions
+namespace BtmI2p.MiscUtil.Collections.Extensions
 {
     /// <summary>
     /// Wrapper methods for SmartEnumerable[T].

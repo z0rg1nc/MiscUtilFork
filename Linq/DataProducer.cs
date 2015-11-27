@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MiscUtil.Linq
+namespace BtmI2p.MiscUtil.Linq
 {
     /// <summary>
     /// Very simple implementation of IDataProducer.

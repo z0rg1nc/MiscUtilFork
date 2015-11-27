@@ -1,8 +1,7 @@
 ﻿using System.Collections.Generic;
+using BtmI2p.MiscUtil.Extensions;
 
-using MiscUtil.Extensions;
-
-namespace MiscUtil.Collections
+namespace BtmI2p.MiscUtil.Collections
 {
     /// <summary>
     /// Implementation of IComparer{T} based on another one;

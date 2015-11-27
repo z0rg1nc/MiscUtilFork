@@ -1,5 +1,5 @@
 ﻿
-namespace MiscUtil.Linq.Extensions
+namespace BtmI2p.MiscUtil.Linq.Extensions
 {
     /// <summary>
     /// Extensions on IDataProducer

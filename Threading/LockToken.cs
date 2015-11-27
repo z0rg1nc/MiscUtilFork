@@ -1,6 +1,6 @@
 using System;
 
-namespace MiscUtil.Threading
+namespace BtmI2p.MiscUtil.Threading
 {
 	/// <summary>
 	/// A lock token returned by a Lock method call on a SyncLock.

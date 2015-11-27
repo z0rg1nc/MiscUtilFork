@@ -1,6 +1,6 @@
 using System;
 
-namespace MiscUtil
+namespace BtmI2p.MiscUtil
 {
     /// <summary>
     /// Interface encapsulating a byte array which may be managed

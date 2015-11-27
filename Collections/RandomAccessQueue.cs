@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace MiscUtil.Collections
+namespace BtmI2p.MiscUtil.Collections
 {
 	/// <summary>
 	/// A class with a similar function to System.Collections.Queue,

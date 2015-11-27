@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace MiscUtil.IO
+namespace BtmI2p.MiscUtil.IO
 {
     /// <summary>
     /// Reads a data source line by line. The source can be a file, a stream,

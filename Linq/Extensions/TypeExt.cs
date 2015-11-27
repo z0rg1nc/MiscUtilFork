@@ -3,9 +3,9 @@ using System;
 using System.Linq.Expressions;
 using System.Reflection;
 using System.Text;
-using MiscUtil.Extensions;
+using BtmI2p.MiscUtil.Extensions;
 
-namespace MiscUtil.Linq.Extensions
+namespace BtmI2p.MiscUtil.Linq.Extensions
 {
     /// <summary>
     /// Provides extension methods to System.Type to provide simple

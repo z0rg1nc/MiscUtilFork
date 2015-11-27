@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Threading;
-using MiscUtil.Collections;
+using BtmI2p.MiscUtil.Collections;
 
-namespace MiscUtil.Threading
+namespace BtmI2p.MiscUtil.Threading
 {
 	/// <summary>
 	/// A thread pool implementation which allows policy decisions

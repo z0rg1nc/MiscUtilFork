@@ -2,7 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace MiscUtil.Collections
+namespace BtmI2p.MiscUtil.Collections
 {
     /// <summary>
     /// Static class to make creation easier. If possible though, use the extension

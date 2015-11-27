@@ -1,9 +1,8 @@
 using System;
 using System.Collections.Generic;
+using BtmI2p.MiscUtil.Extensions;
 
-using MiscUtil.Extensions;
-
-namespace MiscUtil.Collections
+namespace BtmI2p.MiscUtil.Collections
 {
     /// <summary>
     /// Represents a range of values. An IComparer{T} is used to compare specific

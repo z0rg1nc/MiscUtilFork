@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-namespace MiscUtil.Threading
+namespace BtmI2p.MiscUtil.Threading
 {
 	/// <summary>
 	/// Class used for locking, as an alternative to just locking on normal monitors.

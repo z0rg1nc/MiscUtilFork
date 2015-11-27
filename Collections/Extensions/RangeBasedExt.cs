@@ -1,5 +1,5 @@
 ﻿
-namespace MiscUtil.Collections.Extensions
+namespace BtmI2p.MiscUtil.Collections.Extensions
 {
     /// <summary>
     /// Extension methods to do with ranges.

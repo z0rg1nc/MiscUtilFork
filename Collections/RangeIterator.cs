@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using MiscUtil.Collections.Extensions;
-using MiscUtil.Extensions;
+using BtmI2p.MiscUtil.Collections.Extensions;
+using BtmI2p.MiscUtil.Extensions;
 
-namespace MiscUtil.Collections
+namespace BtmI2p.MiscUtil.Collections
 {
     /// <summary>
     /// Iterates over a range. Despite its name, this implements IEnumerable{T} rather than

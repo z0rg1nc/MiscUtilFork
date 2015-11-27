@@ -1,5 +1,5 @@
 ﻿#if DOTNET35
-namespace MiscUtil
+namespace BtmI2p.MiscUtil
 {
     interface INullOp<T>
     {

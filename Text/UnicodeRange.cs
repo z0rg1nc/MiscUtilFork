@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using MiscUtil.Collections;
+using BtmI2p.MiscUtil.Collections;
 
-namespace MiscUtil.Text {
+namespace BtmI2p.MiscUtil.Text {
 
     /// <summary>
     /// Utility class providing a number of singleton instances of

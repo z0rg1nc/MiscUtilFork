@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using BtmI2p.MiscUtil.Extensions;
 
-using MiscUtil.Extensions;
-
-namespace MiscUtil.Linq
+namespace BtmI2p.MiscUtil.Linq
 {
     /// <summary>
     /// A DataProducer with ordering capabilities

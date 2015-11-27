@@ -1,10 +1,10 @@
-﻿
-using System;
-#if DOTNET35
+﻿using System;
 using System.Linq.Expressions;
-using MiscUtil.Linq;
+using BtmI2p.MiscUtil.Linq;
+#if DOTNET35
+
 #endif
-namespace MiscUtil
+namespace BtmI2p.MiscUtil
 {
     /// <summary>
     /// The Operator class provides easy access to the standard operators

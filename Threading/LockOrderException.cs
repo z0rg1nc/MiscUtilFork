@@ -1,6 +1,6 @@
 using System;
 
-namespace MiscUtil.Threading
+namespace BtmI2p.MiscUtil.Threading
 {
 	/// <summary>
 	/// Exception thrown when a Lock method on the SyncLock class times out.

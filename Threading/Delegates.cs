@@ -1,6 +1,6 @@
 using System;
 
-namespace MiscUtil.Threading
+namespace BtmI2p.MiscUtil.Threading
 {
 	/// <summary>
 	/// Delegate for handling exceptions.

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace MiscUtil.Linq
+namespace BtmI2p.MiscUtil.Linq
 {
     partial class EditableLookup<TKey, TElement>
 	{

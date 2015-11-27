@@ -8,8 +8,8 @@
     <ProjectGuid>{4FC1D5F4-661F-48DC-B397-4CDCB7D61ABE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MiscUtil</RootNamespace>
-    <AssemblyName>MiscUtil</AssemblyName>
+    <RootNamespace>BtmI2p.MiscUtil</RootNamespace>
+    <AssemblyName>BtmI2p.MiscUtil</AssemblyName>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <OldToolsVersion>3.5</OldToolsVersion>
@@ -53,13 +53,13 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
-    <DocumentationFile>bin\Release\MiscUtil.xml</DocumentationFile>
+    <DocumentationFile>bin\Release\BtmI2p.MiscUtil.xml</DocumentationFile>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release 2.0|AnyCPU' ">
     <OutputPath>bin\Release 2.0\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
-    <DocumentationFile>bin\Release 2.0\MiscUtil.xml</DocumentationFile>
+    <DocumentationFile>bin\Release 2.0\BtmI2p.MiscUtil.xml</DocumentationFile>
     <Optimize>true</Optimize>
     <DebugType>pdbonly</DebugType>
     <PlatformTarget>AnyCPU</PlatformTarget>

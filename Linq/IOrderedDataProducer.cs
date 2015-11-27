@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace MiscUtil.Linq
+namespace BtmI2p.MiscUtil.Linq
 {
     /// <summary>
     /// Ordered variant of IDataProducer; note that generally

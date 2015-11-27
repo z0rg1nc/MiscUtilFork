@@ -1,10 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using BtmI2p.MiscUtil.Extensions;
 
-using MiscUtil.Extensions;
-
-namespace MiscUtil.Linq.Extensions
+namespace BtmI2p.MiscUtil.Linq.Extensions
 {
     public static partial class DataProducerExt
     {

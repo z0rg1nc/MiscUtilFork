@@ -1,5 +1,5 @@
 ﻿
-namespace MiscUtil
+namespace BtmI2p.MiscUtil
 {
     /// <summary>
     /// Generic event argument taking a single value

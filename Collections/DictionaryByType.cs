@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-namespace MiscUtil.Collections
+
+namespace BtmI2p.MiscUtil.Collections
 {
     /// <summary>
     /// Map from types to instances of those types, e.g. int to 10 and

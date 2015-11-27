@@ -1,7 +1,7 @@
 using System;
 using System.Runtime.InteropServices;
 
-namespace MiscUtil.Conversion
+namespace BtmI2p.MiscUtil.Conversion
 {
 	/// <summary>
 	/// Equivalent of System.BitConverter, but with either endianness.

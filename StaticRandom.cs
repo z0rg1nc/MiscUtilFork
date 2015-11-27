@@ -1,6 +1,6 @@
 using System;
 
-namespace MiscUtil
+namespace BtmI2p.MiscUtil
 {
 	/// <summary>
 	/// Thread-safe equivalent of System.Random, using just static methods.

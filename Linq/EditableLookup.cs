@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using MiscUtil.Extensions;
+using BtmI2p.MiscUtil.Extensions;
 
-namespace MiscUtil.Linq
+namespace BtmI2p.MiscUtil.Linq
 {
     /// <summary>
     /// Simple non-unique map wrapper

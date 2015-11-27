@@ -1,9 +1,9 @@
 using System;
 using System.IO;
 using System.Text;
-using MiscUtil.Conversion;
+using BtmI2p.MiscUtil.Conversion;
 
-namespace MiscUtil.IO
+namespace BtmI2p.MiscUtil.IO
 {
 	/// <summary>
 	/// Equivalent of System.IO.BinaryReader, but with either endianness, depending on

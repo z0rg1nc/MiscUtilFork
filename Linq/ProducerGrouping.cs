@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MiscUtil.Linq
+namespace BtmI2p.MiscUtil.Linq
 {
     /// <summary>
     /// Simple implementation of IProducerGrouping which proxies to an existing

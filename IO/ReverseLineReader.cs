@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace MiscUtil.IO
+namespace BtmI2p.MiscUtil.IO
 {
     /// <summary>
     /// Takes an encoding (defaulting to UTF-8) and a function which produces a seekable stream

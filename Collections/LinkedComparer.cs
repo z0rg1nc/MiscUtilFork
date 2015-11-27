@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
-using MiscUtil.Extensions;
-namespace MiscUtil.Collections
+using BtmI2p.MiscUtil.Extensions;
+
+namespace BtmI2p.MiscUtil.Collections
 {
     /// <summary>
     /// Comparer to daisy-chain two existing comparers and 

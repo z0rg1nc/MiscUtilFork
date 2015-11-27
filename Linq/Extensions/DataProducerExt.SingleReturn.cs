@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using MiscUtil.Extensions;
+using BtmI2p.MiscUtil.Extensions;
 
-namespace MiscUtil.Linq.Extensions
+namespace BtmI2p.MiscUtil.Linq.Extensions
 {
     /// <summary>
     /// Extensions on IDataProducer

@@ -2,7 +2,7 @@
 using System;
 using System.Linq.Expressions;
 
-namespace MiscUtil.Linq
+namespace BtmI2p.MiscUtil.Linq
 {
     /// <summary>
     /// General purpose Expression utilities

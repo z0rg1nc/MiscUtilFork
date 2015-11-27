@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using MiscUtil.Collections;
-using MiscUtil.Collections.Extensions;
-namespace MiscUtil.Linq.Extensions
+using BtmI2p.MiscUtil.Collections;
+using BtmI2p.MiscUtil.Collections.Extensions;
+
+namespace BtmI2p.MiscUtil.Linq.Extensions
 {
     /// <summary>
     /// Provides extension methods to List&lt;T&gt;

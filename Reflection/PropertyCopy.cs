@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace MiscUtil.Reflection
+namespace BtmI2p.MiscUtil.Reflection
 {
     /// <summary>
     /// Generic class which copies to its target type from a source

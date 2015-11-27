@@ -1,9 +1,8 @@
 using System;
 using System.IO;
+using BtmI2p.MiscUtil.Checksum;
 
-using MiscUtil.Checksum;
-
-namespace MiscUtil.Compression.Vcdiff
+namespace BtmI2p.MiscUtil.Compression.Vcdiff
 {
 	/// <summary>
 	/// Decoder for VCDIFF (RFC 3284) streams.

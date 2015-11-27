@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-namespace MiscUtil.Threading
+namespace BtmI2p.MiscUtil.Threading
 {
 	/// <summary>
 	/// Class designed to control a worker thread (co-operatively).

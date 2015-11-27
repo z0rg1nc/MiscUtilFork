@@ -2,9 +2,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using MiscUtil.Extensions;
+using BtmI2p.MiscUtil.Extensions;
 
-namespace MiscUtil.Linq.Extensions
+namespace BtmI2p.MiscUtil.Linq.Extensions
 {
     /// <summary>
     /// Further extensions to IEnumerable{T}.

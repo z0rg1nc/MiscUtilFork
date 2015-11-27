@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace MiscUtil.Collections.Extensions
+namespace BtmI2p.MiscUtil.Collections.Extensions
 {
     /// <summary>
     /// Extensions to IDictionary

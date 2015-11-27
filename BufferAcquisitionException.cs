@@ -1,6 +1,6 @@
 using System;
 
-namespace MiscUtil
+namespace BtmI2p.MiscUtil
 {
     /// <summary>
     /// Exception thrown to indicate that a buffer of the

@@ -1,7 +1,7 @@
 using System;
 using System.Globalization;
 
-namespace MiscUtil.Conversion
+namespace BtmI2p.MiscUtil.Conversion
 {
 	/// <summary>
 	/// A class to allow the conversion of doubles to string representations of

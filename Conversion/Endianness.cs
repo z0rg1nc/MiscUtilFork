@@ -1,5 +1,5 @@
 
-namespace MiscUtil.Conversion
+namespace BtmI2p.MiscUtil.Conversion
 {
 	/// <summary>
 	/// Endianness of a converter

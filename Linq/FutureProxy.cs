@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MiscUtil.Linq
+namespace BtmI2p.MiscUtil.Linq
 {
     /// <summary>
     /// Implementation of IFuture which retrieves it value from a delegate.

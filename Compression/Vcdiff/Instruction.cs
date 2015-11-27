@@ -1,5 +1,5 @@
 
-namespace MiscUtil.Compression.Vcdiff
+namespace BtmI2p.MiscUtil.Compression.Vcdiff
 {
 	/// <summary>
 	/// Contains the information for a single instruction

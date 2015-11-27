@@ -1,6 +1,6 @@
 using System;
 
-namespace MiscUtil.Compression.Vcdiff
+namespace BtmI2p.MiscUtil.Compression.Vcdiff
 {
 	/// <summary>
 	/// Table used to encode/decode instructions.

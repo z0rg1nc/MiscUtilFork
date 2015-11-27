@@ -1,5 +1,5 @@
 
-namespace MiscUtil.Conversion
+namespace BtmI2p.MiscUtil.Conversion
 {
 	/// <summary>
 	/// Implementation of EndianBitConverter which converts to/from little-endian

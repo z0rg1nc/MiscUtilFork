@@ -1,7 +1,7 @@
 using System;
 using System.Collections;
 
-namespace MiscUtil.Text
+namespace BtmI2p.MiscUtil.Text
 {
 	/// <summary>
 	/// String of UTF-32 characters (ints). This class is immutable, and so is thread-safe
